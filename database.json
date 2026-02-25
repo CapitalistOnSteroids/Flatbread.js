@@ -1,6 +1,6 @@
 {
   "config": {
-    "cdnBase": "https://cdn.jsdelivr.net/gh/CapitalistOnSteroids/flatbread@main/buttons/"
+    "cdnBase": "https://cdn.jsdelivr.net/gh/CapitalistOnSteroids/Flatbread.js/buttons/"
   },
   "buttons": [
     { "name": "000010", "file": "000010.gif", "tags": ["000010", "retro"] },
